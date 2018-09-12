@@ -1,1 +1,16 @@
-
+{
+  "GunungPayung" : {
+    "Entry" : 5000,
+    "Kecak" : 100000
+  },
+  "Pandawa" : {
+    "Canoe" : 50000,
+    "Entry" : 5000,
+    "Kecak" : 100000,
+    "Shuttle" : 10000
+  },
+  "TimbisParagliding" : {
+    "Instruktur" : 1500000,
+    "Tandem" : 1000000
+  }
+}
