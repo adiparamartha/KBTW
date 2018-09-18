@@ -1,36 +1,5 @@
 {
-  "DatabaseUser" : {
-    "User1" : {
-      "Username" : "adiparamartha",
-      "Email" : "mdparamartha@gmail.com",
-      "Fullname" : "Made Adi Paramartha Putra",
-      "Dateofbirth" : 29071995,
-      "Sex" : "Male",
-      "Address" : "Dago",
-      "Provice" : "Jawa Barat",
-      "Nationality" : "Indonesia"
-      },
-    "User2" : {
-      "Username" : "mutaharrikihsan",
-      "Email" : "mutaharrikihsan@gmail.com",
-      "Fullname" : "mutaharrikihsan",
-      "Dateofbirth" : 29071995",
-      "Sex" : "Male",
-      "Address" : "Dago",
-      "Provice" : "Jawa Barat",
-      "Nationality" : "Indonesia"
-      },
-    "User3" : {
-      "Username" : "user3xyz",
-      "Email" : "user3@gmail.com",
-      "Fullname" : "My Name is User 3",
-      "Dateofbirth" : 29071995,
-      "Sex" : "Male",
-      "Address" : "Buah Batu",
-      "Provice" : "Jawa Barat",
-      "Nationality" : "Indonesia"
-    }
-  },
+
   "Akomodasi" : {
     "PandawaHill" : {
       "2BedBreakfast" : 1000000,
