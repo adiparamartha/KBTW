@@ -1,16 +1,35 @@
 {
-  "GunungPayung" : {
-    "Entry" : 5000,
-    "Kecak" : 100000
+  "Akomodasi" : {
+    "PandawaHill" : {
+      "2BedBreakfast" : 1000000,
+      "2BedBreakfastPool" : 1300000,
+      "4BedBreakfast" : 2000000,
+      "4BedBreakfastPool" : 2500000
+    },
+    "PuriPandawa" : {
+      "2Bed" : 650000,
+      "4Bed" : 1100000,
+      "2BedBreakfast" : 750000,
+      "4BedBreakfast" : 1300000
+    }
   },
-  "Pandawa" : {
-    "Canoe" : 50000,
-    "Entry" : 5000,
-    "Kecak" : 100000,
-    "Shuttle" : 10000
-  },
-  "TimbisParagliding" : {
-    "Instruktur" : 1500000,
-    "Tandem" : 1000000
+  "ObyekWisata" : {
+    "GunungPayung" : {
+      "TiketGP" : 5000,
+      "RentalStage" : 1000000,
+      "RentalHall" : 300000
+    },
+    "Pandawa" : {
+      "Tiket" : 5000,
+      "DoubleKanoe" : 60000,
+      "SinlgeKanoe" : 45000,
+      "Snorkling" : 250000,
+      "CoralPlanting" : 150000,
+      "KecakDance" : 100000
+    },
+    "TimbisParagliding" : {
+      "Tandem" : 1500000,
+      "Solo" : 1000000
+    }
   }
 }
