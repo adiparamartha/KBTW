@@ -1,5 +1,5 @@
 {
-"DatabaseUser" : {
+  "DatabaseUser" : {
     "User1" : {
       "Username" : adiparamartha,
       "Email" : mdparamartha@gmail.com,
@@ -7,9 +7,9 @@
       "Dateofbirth" : 29071995,
       "Sex" : Male,
       "Address" : Dago,
-	  "Provice" : Jawa Barat,
-	  "Nationality" : Indonesia
-    },
+      "Provice" : Jawa Barat,
+      "Nationality" : Indonesia
+      },
     "User2" : {
       "Username" : mutaharrikihsan,
       "Email" : mutaharrikihsan@gmail.com,
@@ -17,9 +17,9 @@
       "Dateofbirth" : 29071995,
       "Sex" : Male,
       "Address" : Dago,
-	  "Provice" : Jawa Barat,
-	  "Nationality" : Indonesia
-    },
+      "Provice" : Jawa Barat,
+      "Nationality" : Indonesia
+      },
     "User3" : {
       "Username" : user3xyz,
       "Email" : user3@gmail.com,
@@ -27,8 +27,8 @@
       "Dateofbirth" : 29071995,
       "Sex" : Male,
       "Address" : Buah Batu,
-	  "Provice" : Jawa Barat,
-	  "Nationality" : Indonesia
+      "Provice" : Jawa Barat,
+      "Nationality" : Indonesia
     }
   },
   "Akomodasi" : {
