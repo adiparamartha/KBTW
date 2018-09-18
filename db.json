@@ -1,3 +1,4 @@
+{
 "DatabaseUser" : {
     "User1" : {
       "Username" : adiparamartha,
@@ -30,7 +31,6 @@
 	  "Nationality" : Indonesia
     }
   },
-
 {
   "Akomodasi" : {
     "PandawaHill" : {
